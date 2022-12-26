@@ -1,4 +1,4 @@
-## Olá! Eu sou o Allan Lima, desenvolvedor front-end júnior
+## Olá! Eu sou o Allan Lima, desenvolvedor full stack júnior
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/allanlima1">
