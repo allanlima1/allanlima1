@@ -15,14 +15,7 @@
   
   ##
   
-<div>
- <a href="https://discord.io/allanlima1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href ="allanlima1@tutanota.com"><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" target="_blank"></a>
-  <a href="https://https://www.linkedin.com/in/allanlima1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/allanlima1/allanlima1/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
   
 
   
